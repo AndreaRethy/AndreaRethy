@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-- 👨‍💻 All of my projects are available at [andrearethy.com](andrearethy.com)
+- 👨‍💻 All of my projects are available at [andrearethy.com](https://andrearethy.com)
 
 - 📫 How to reach me **andrea.rethy.apps@gmail.com**
 
