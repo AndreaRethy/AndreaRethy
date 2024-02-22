@@ -5,11 +5,13 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+📍 I am currently living in Barcelona
 
-- 👨‍💻 All of my projects are available at <a href="https://andrearethy.com" target="_blank">https://andrearethy.com</a>
+🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **andrea.rethy.apps@gmail.com**
+👨‍💻 All of my projects are available at <a href="https://andrearethy.com" target="_blank">https://andrearethy.com</a>
+
+📫 How to reach me **andrea.rethy.apps@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
