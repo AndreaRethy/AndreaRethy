@@ -7,7 +7,7 @@
 
 📍 I am currently living in Barcelona
 
-🌱 I’m currently learning **HTML, CSS, JavaScript**
+🌱 I’m currently learning **Node.js, TypeScript, React and SwiftUI**
 
 👨‍💻 All of my projects are available at <a href="https://andrearethy.com" target="_blank">https://andrearethy.com</a>
 
