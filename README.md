@@ -7,7 +7,7 @@
 
 📍 I am currently living in Barcelona
 
-🌱 I’m currently working with **Node.js, TypeScript, React and SwiftUI**
+🌱 My main focus right now is **SwiftUI, Core Data, CloudKit**
 
 👨‍💻 All of my projects are available at <a href="https://andrearethy.com" target="_blank">https://andrearethy.com</a>
 
